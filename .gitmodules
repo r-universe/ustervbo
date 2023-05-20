@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "beadplexr"]
+	path = beadplexr
+	url = https://gitlab.com/ustervbo/beadplexr
+	shallow = true
+	registered = true
